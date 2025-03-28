@@ -9,7 +9,7 @@ import FreshBreathSection from './components/FreshBreathSection';
 import ClientsReview from './components/ClientsReview';
 import InstagramGallery from './components/InstagramGallery';
 import BestSellers from './components/BestSellers';
-import SalesSection from './components/Salessection';
+import SalesSection from './components/SalesSection';
 import Footer from './components/Footer';
 
 
